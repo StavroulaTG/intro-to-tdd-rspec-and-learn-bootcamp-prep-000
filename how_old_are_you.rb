@@ -1,6 +1,3 @@
- def touch how_old_are_you.rb
- end
-
 require_relative './current_age_for_birth_year.rb'
   puts "What year were you born?"
   birth_year = gets.to_i
